@@ -1,4 +1,5 @@
 # solvesudoku.js
+# 注意: **由于操作过于规律，现在使用此脚本会导致封设备**
 solvesudoku.js 是依靠 [mod_solvesudoku](https://github.com/KLGJ/mod_solvesudoku) 模块自动解数独的 Auto.js 的 JavaScript 脚本
 
 * Auto.js [主页](https://github.com/hyb1996/Auto.js) [下载页面](https://github.com/hyb1996/Auto.js/releases)
